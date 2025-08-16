@@ -1,0 +1,5 @@
+{
+  "name": "Drag & Drop Fun Game",
+  "description": "An interactive drag and drop game for learning shapes, colors, numbers, animals, and letters. Players drag items to their matching targets across multiple levels.",
+  "requestFramePermissions": []
+}
